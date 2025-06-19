@@ -4,7 +4,7 @@ pipeline {
         PROJECT = 'expense'
         COMPONENT = 'backend' 
         appVersion = ''
-        environment = ''
+        environment = 'dev'
         ACC_ID = "879381244178"
     }
 
